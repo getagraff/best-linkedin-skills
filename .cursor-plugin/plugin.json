@@ -1,0 +1,18 @@
+{
+  "name": "agraff",
+  "displayName": "Agraff",
+  "description": "Skills Agraff pour piloter LinkedIn depuis votre IA (7 FR, 7 EN) / Agraff skills to run LinkedIn from your AI (7 FR, 7 EN)",
+  "author": {
+    "name": "Agraff"
+  },
+  "homepage": "https://getagraff.com",
+  "repository": "https://github.com/getagraff/agraff-skills",
+  "keywords": [
+    "linkedin",
+    "prospection",
+    "skills"
+  ],
+  "skills": [
+    "./"
+  ]
+}

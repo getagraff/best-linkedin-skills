@@ -9,10 +9,10 @@
 **Comment l'utiliser.** Collez cette phrase dans Claude, ChatGPT ou Cursor :
 
 ```
-Installe ce skill : lis https://raw.githubusercontent.com/RubenTaieb2/agraff-skills/main/rapport-hebdomadaire/SKILL.md et suis les instructions
+Installe ce skill : lis https://raw.githubusercontent.com/getagraff/agraff-skills/main/rapport-hebdomadaire/SKILL.md et suis les instructions
 ```
 
-Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/RubenTaieb2/agraff-skills/blob/main/rapport-hebdomadaire/SKILL.md) et suit les instructions.
+Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/rapport-hebdomadaire/SKILL.md) et suit les instructions.
 
 Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/connexion
 
@@ -25,12 +25,12 @@ Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/co
 **How to use it.** Paste this sentence into Claude, ChatGPT or Cursor:
 
 ```
-Install this skill: read https://raw.githubusercontent.com/RubenTaieb2/agraff-skills/main/weekly-report/SKILL.md and follow the instructions
+Install this skill: read https://raw.githubusercontent.com/getagraff/agraff-skills/main/weekly-report/SKILL.md and follow the instructions
 ```
 
-Nothing to download: your AI reads the [`SKILL.md`](https://github.com/RubenTaieb2/agraff-skills/blob/main/weekly-report/SKILL.md) file and follows the instructions.
+Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/weekly-report/SKILL.md) file and follows the instructions.
 
 For it to act on your LinkedIn, connect Agraff: https://getagraff.com/connexion
 
 ---
-Versions : [`rapport-hebdomadaire`](https://github.com/RubenTaieb2/agraff-skills/tree/main/rapport-hebdomadaire) (FR) · [`weekly-report`](https://github.com/RubenTaieb2/agraff-skills/tree/main/weekly-report) (EN)
+Versions : [`rapport-hebdomadaire`](https://github.com/getagraff/agraff-skills/tree/main/rapport-hebdomadaire) (FR) · [`weekly-report`](https://github.com/getagraff/agraff-skills/tree/main/weekly-report) (EN)
