@@ -9,10 +9,10 @@
 **Comment l'utiliser.** Collez cette phrase dans Claude, ChatGPT ou Cursor :
 
 ```
-Installe ce skill : lis https://raw.githubusercontent.com/getagraff/agraff-skills/main/analyser-mes-posts/SKILL.md et suis les instructions
+Installe ce skill : lis https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/analyser-mes-posts/SKILL.md et suis les instructions
 ```
 
-Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/analyser-mes-posts/SKILL.md) et suit les instructions.
+Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/analyser-mes-posts/SKILL.md) et suit les instructions.
 
 Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/connexion
 
@@ -25,12 +25,12 @@ Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/co
 **How to use it.** Paste this sentence into Claude, ChatGPT or Cursor:
 
 ```
-Install this skill: read https://raw.githubusercontent.com/getagraff/agraff-skills/main/analyze-my-posts/SKILL.md and follow the instructions
+Install this skill: read https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/analyze-my-posts/SKILL.md and follow the instructions
 ```
 
-Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/analyze-my-posts/SKILL.md) file and follows the instructions.
+Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/analyze-my-posts/SKILL.md) file and follows the instructions.
 
 For it to act on your LinkedIn, connect Agraff: https://getagraff.com/connexion
 
 ---
-Versions : [`analyser-mes-posts`](https://github.com/getagraff/agraff-skills/tree/main/analyser-mes-posts) (FR) · [`analyze-my-posts`](https://github.com/getagraff/agraff-skills/tree/main/analyze-my-posts) (EN)
+Versions : [`analyser-mes-posts`](https://github.com/getagraff/best-linkedin-skills/tree/main/analyser-mes-posts) (FR) · [`analyze-my-posts`](https://github.com/getagraff/best-linkedin-skills/tree/main/analyze-my-posts) (EN)

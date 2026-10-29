@@ -9,10 +9,10 @@
 **Comment l'utiliser.** Collez cette phrase dans Claude, ChatGPT ou Cursor :
 
 ```
-Installe ce skill : lis https://raw.githubusercontent.com/getagraff/agraff-skills/main/trouver-des-prospects/SKILL.md et suis les instructions
+Installe ce skill : lis https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/trouver-des-prospects/SKILL.md et suis les instructions
 ```
 
-Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/trouver-des-prospects/SKILL.md) et suit les instructions.
+Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/trouver-des-prospects/SKILL.md) et suit les instructions.
 
 Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/connexion
 
@@ -25,12 +25,12 @@ Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/co
 **How to use it.** Paste this sentence into Claude, ChatGPT or Cursor:
 
 ```
-Install this skill: read https://raw.githubusercontent.com/getagraff/agraff-skills/main/find-prospects/SKILL.md and follow the instructions
+Install this skill: read https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/find-prospects/SKILL.md and follow the instructions
 ```
 
-Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/find-prospects/SKILL.md) file and follows the instructions.
+Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/find-prospects/SKILL.md) file and follows the instructions.
 
 For it to act on your LinkedIn, connect Agraff: https://getagraff.com/connexion
 
 ---
-Versions : [`trouver-des-prospects`](https://github.com/getagraff/agraff-skills/tree/main/trouver-des-prospects) (FR) · [`find-prospects`](https://github.com/getagraff/agraff-skills/tree/main/find-prospects) (EN)
+Versions : [`trouver-des-prospects`](https://github.com/getagraff/best-linkedin-skills/tree/main/trouver-des-prospects) (FR) · [`find-prospects`](https://github.com/getagraff/best-linkedin-skills/tree/main/find-prospects) (EN)
