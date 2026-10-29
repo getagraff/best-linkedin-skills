@@ -9,10 +9,10 @@
 **Comment l'utiliser.** Collez cette phrase dans Claude, ChatGPT ou Cursor :
 
 ```
-Installe ce skill : lis https://raw.githubusercontent.com/getagraff/agraff-skills/main/boite-de-reception/SKILL.md et suis les instructions
+Installe ce skill : lis https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/boite-de-reception/SKILL.md et suis les instructions
 ```
 
-Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/boite-de-reception/SKILL.md) et suit les instructions.
+Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/boite-de-reception/SKILL.md) et suit les instructions.
 
 Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/connexion
 
@@ -25,12 +25,12 @@ Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/co
 **How to use it.** Paste this sentence into Claude, ChatGPT or Cursor:
 
 ```
-Install this skill: read https://raw.githubusercontent.com/getagraff/agraff-skills/main/inbox-triage/SKILL.md and follow the instructions
+Install this skill: read https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/inbox-triage/SKILL.md and follow the instructions
 ```
 
-Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/inbox-triage/SKILL.md) file and follows the instructions.
+Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/inbox-triage/SKILL.md) file and follows the instructions.
 
 For it to act on your LinkedIn, connect Agraff: https://getagraff.com/connexion
 
 ---
-Versions : [`boite-de-reception`](https://github.com/getagraff/agraff-skills/tree/main/boite-de-reception) (FR) · [`inbox-triage`](https://github.com/getagraff/agraff-skills/tree/main/inbox-triage) (EN)
+Versions : [`boite-de-reception`](https://github.com/getagraff/best-linkedin-skills/tree/main/boite-de-reception) (FR) · [`inbox-triage`](https://github.com/getagraff/best-linkedin-skills/tree/main/inbox-triage) (EN)

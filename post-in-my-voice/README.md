@@ -9,10 +9,10 @@
 **Comment l'utiliser.** Collez cette phrase dans Claude, ChatGPT ou Cursor :
 
 ```
-Installe ce skill : lis https://raw.githubusercontent.com/getagraff/agraff-skills/main/post-dans-ma-voix/SKILL.md et suis les instructions
+Installe ce skill : lis https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/post-dans-ma-voix/SKILL.md et suis les instructions
 ```
 
-Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/post-dans-ma-voix/SKILL.md) et suit les instructions.
+Rien à télécharger : votre IA lit le fichier [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/post-dans-ma-voix/SKILL.md) et suit les instructions.
 
 Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/connexion
 
@@ -25,12 +25,12 @@ Pour qu'il agisse sur votre LinkedIn, branchez Agraff : https://getagraff.com/co
 **How to use it.** Paste this sentence into Claude, ChatGPT or Cursor:
 
 ```
-Install this skill: read https://raw.githubusercontent.com/getagraff/agraff-skills/main/post-in-my-voice/SKILL.md and follow the instructions
+Install this skill: read https://raw.githubusercontent.com/getagraff/best-linkedin-skills/main/post-in-my-voice/SKILL.md and follow the instructions
 ```
 
-Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/agraff-skills/blob/main/post-in-my-voice/SKILL.md) file and follows the instructions.
+Nothing to download: your AI reads the [`SKILL.md`](https://github.com/getagraff/best-linkedin-skills/blob/main/post-in-my-voice/SKILL.md) file and follows the instructions.
 
 For it to act on your LinkedIn, connect Agraff: https://getagraff.com/connexion
 
 ---
-Versions : [`post-dans-ma-voix`](https://github.com/getagraff/agraff-skills/tree/main/post-dans-ma-voix) (FR) · [`post-in-my-voice`](https://github.com/getagraff/agraff-skills/tree/main/post-in-my-voice) (EN)
+Versions : [`post-dans-ma-voix`](https://github.com/getagraff/best-linkedin-skills/tree/main/post-dans-ma-voix) (FR) · [`post-in-my-voice`](https://github.com/getagraff/best-linkedin-skills/tree/main/post-in-my-voice) (EN)
