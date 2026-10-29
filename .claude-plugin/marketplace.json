@@ -1,0 +1,33 @@
+{
+  "name": "agraff-skills",
+  "description": "Skills Agraff pour piloter LinkedIn depuis votre IA (7 FR, 7 EN) / Agraff skills to run LinkedIn from your AI (7 FR, 7 EN)",
+  "owner": {
+    "name": "Agraff"
+  },
+  "plugins": [
+    {
+      "name": "agraff",
+      "source": "./",
+      "description": "14 skills Agraff : 7 en français, 7 en anglais / 14 Agraff skills: 7 French, 7 English",
+      "homepage": "https://getagraff.com",
+      "repository": "https://github.com/getagraff/agraff-skills",
+      "category": "productivity",
+      "skills": [
+        "./analyser-mes-posts",
+        "./analyze-my-posts",
+        "./boite-de-reception",
+        "./find-prospects",
+        "./inbox-triage",
+        "./invitations-recues",
+        "./pending-invitations",
+        "./post-dans-ma-voix",
+        "./post-in-my-voice",
+        "./prepare-a-meeting",
+        "./preparer-un-rendez-vous",
+        "./rapport-hebdomadaire",
+        "./trouver-des-prospects",
+        "./weekly-report"
+      ]
+    }
+  ]
+}
